@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Virtual-Garden/static/css/main.68f4e3d5.css",
+    "main.js": "/Virtual-Garden/static/js/main.9a7ba1ca.js",
+    "static/js/453.9d490bd3.chunk.js": "/Virtual-Garden/static/js/453.9d490bd3.chunk.js",
+    "index.html": "/Virtual-Garden/index.html",
+    "main.68f4e3d5.css.map": "/Virtual-Garden/static/css/main.68f4e3d5.css.map",
+    "main.9a7ba1ca.js.map": "/Virtual-Garden/static/js/main.9a7ba1ca.js.map",
+    "453.9d490bd3.chunk.js.map": "/Virtual-Garden/static/js/453.9d490bd3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68f4e3d5.css",
+    "static/js/main.9a7ba1ca.js"
+  ]
+}
